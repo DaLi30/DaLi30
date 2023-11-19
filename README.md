@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name  is Daria Lishchenko.
+
+Looking for new job in Data Science.
+
+__Databases:__ PostgreSQL 
+
+__Data Science:__ Python (Pandas, Numpy, Matplotlib, Seaborn, Stats, Plotly) 
+
+__Vizualisation:__ Tableau, DataLens, Power BI
+
 <!--
 **DaLi30/DaLi30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
